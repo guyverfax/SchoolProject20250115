@@ -22,6 +22,8 @@
 
 [Google](http://www.google.com)
 
+[ChatGPT](http://chatgpt.com)
+
 
 
 [文件解說](doc/index.html)
